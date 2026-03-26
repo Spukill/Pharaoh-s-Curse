@@ -1,5 +1,11 @@
 # LCOM Project
 
+## Documentation
+
+For more details and project images check our **[Project Report](doc/report.pdf)**.
+
+---
+
 LCOM Project for group GRUPO_2LEIC18_6.
 
 Group members:
@@ -7,6 +13,8 @@ Group members:
 1. Gustavo Henrique Faria da Costa Ferreira de Madureira (up202304978@up.pt)
 2. João Medeiros Miranda (up202207769@up.pt)
 3. Tiago Mota Cunha (up202305564@up.pt)
+
+---
 
 ## Running Instructions
 
@@ -17,8 +25,3 @@ The game needs MINIX and the LCOM LCF library. Both can be found in [this Virtua
 $ make
 $ lcom_run proj
 ```
-
-
-## Documentation
-
-For a detailed technical analysis, architecture diagrams, and implementation details, please refer to our **[Project Report](doc/report.pdf)**.
